@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<h3><a href="mailto:hello@ionodev.com">henrik@ionodev.com</a></h3>
+<h3><a href="mailto:hello@ionodev.com">hello@ionodev.com</a></h3>
 
 </div>
 
